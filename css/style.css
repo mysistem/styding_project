@@ -1,0 +1,33 @@
+/*.round-image {
+    background: url('../img/99px_ru_photo_296049_v_nebe_na_fone_oblakov_groznij_siluet_samoleta.jpg') center center no-repeat;
+    height: 165px;
+    width: auto;
+    background-size: cover;
+    border-radius: 100%;
+}*/
+
+.round-image img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 100%;
+    min-height: 155px;
+}
+
+.night_flying {
+    padding-top: 20px;
+}
+
+.night_flying span {
+    color: #9F9F9F;
+}
+
+.night_flying h3 {
+    margin: 5px auto;
+}
+
+.night_flying p {
+    color: #6D6C6D;
+    line-height: 24px;
+    margin-top: 10px;
+}
